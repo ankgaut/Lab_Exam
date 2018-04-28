@@ -1,0 +1,17 @@
+To Zip:
+zip myzip file1 file2 file3
+
+To Unzip:
+unzip myzip.zip
+
+To extract a tar file:
+tar xvf filename.tar
+
+To unpack a tar.gz:
+tar -xzf file.tar.gz
+
+To unpack .gz:
+gunzip filename.gz
+
+To compress:
+tar cvzf file.tar.gz file
